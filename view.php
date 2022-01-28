@@ -30,7 +30,7 @@
                     <a href="edit.php?post_slug=<?php echo $q['post_slug']?>" class="btn btn-light btn-sm" name="edit">Edit</a>
                     <form method="POST">
                         <input type="text" hidden value='<?php echo $q['post_slug']?>' name="post_slug">
-                        <button class="btn btn-danger btn-sm ml-2" name="delete">Delete</button>
+                        <button class="btn btn-danger btn-sm ml-2" name="delete">Apagar</button>
                     </form>
                 </div>
 
