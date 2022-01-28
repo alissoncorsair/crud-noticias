@@ -32,7 +32,7 @@
 
                 <textarea placeholder="conteúdo" class="form-control my-3 bg-dark text-white" cols="30" rows="5" name="post_content"><?=$q['post_content']?></textarea>
 
-                <button class="btn btn-dark" name="update">Update</button>
+                <button class="btn btn-dark" name="update">Atualizar</button>
             </form>
         <?php } ?>    
    </div>
